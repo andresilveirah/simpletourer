@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    André Herculano -- Everything
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
